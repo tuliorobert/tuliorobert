@@ -18,4 +18,11 @@ My name is Tulio Roberto, better known on social media as TulioRobert.
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="45">
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="45">
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="45">
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="45">
 </div>
+
+#
+
+#### My Linkedin
+
+<a href="https://www.linkedin.com/in/tulio-cardoso-b52617141/" target="blank_"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="45"></a>
