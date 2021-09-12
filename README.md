@@ -2,8 +2,6 @@
 My name is Tulio Roberto, better known on social media as TulioRobert.
 
 🌎 I'm from Rio de Janeiro - Brazil 🌎
-
-<img src="https://media.discordapp.net/attachments/849663110935347250/872314427511308338/94258137_3785246861550080_5019258271421169664_n.png?width=676&height=676" alt="tuliorobert" width="400">
  
 **Front End Developer** and currently studying **JavaScript**, **TypeScript** and **React**.
 
