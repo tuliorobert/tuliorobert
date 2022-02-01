@@ -24,4 +24,4 @@ My name is Tulio Roberto, better known on social media as TulioRobert.
 
 #### My Linkedin
 
-<a href="https://www.linkedin.com/in/tulio-cardoso-b52617141/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="45"></a>
+<a href="https://www.linkedin.com/in/tuliorobert" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="45"></a>
