@@ -5,8 +5,6 @@ My name is Tulio Roberto, better known on social media as TulioRobert.
  
 **Full Stack Developer** and currently studying **Java**, **Kotlin** and **Spring Boot**.
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuliorobert&layout=compact&langs_count=6"  alt="thehumphreyLangs"/>
-
 #
 
 ### I want to improve my skills and collaborate with any development project 🥰
